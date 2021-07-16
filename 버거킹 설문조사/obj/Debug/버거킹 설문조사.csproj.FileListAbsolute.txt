@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\bin\Debug\버거킹 설문조사.exe.config
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\bin\Debug\버거킹 설문조사.exe
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\bin\Debug\버거킹 설문조사.pdb
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\bin\Debug\WebDriver.dll
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\bin\Debug\WebDriver.xml
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹 설문조사.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹_설문조사.Form1.resources
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹_설문조사.Properties.Resources.resources
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹 설문조사.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹 설문조사.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹 설문조사.csproj.CopyComplete
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹 설문조사.exe
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\obj\Debug\버거킹 설문조사.pdb
+C:\Users\Administrator\source\repos\버거킹 설문조사\버거킹 설문조사\bin\Debug\Bunifu_UI_v1.52.dll
